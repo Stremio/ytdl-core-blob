@@ -1,0 +1,16 @@
+{
+  "name": "ytdl-core-blob",
+  "version": "0.0.1",
+  "description": "Webpack ytdl-core to remove node 10 dependency",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build.js",
+    "build": "node build.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ytdl-core": "2.1.7",
+    "webpack": "4.29.6",
+    "source-map-support": "0.5.19"
+  }
+}
