@@ -18,4 +18,4 @@ npm start
 
 This will webpack `ytdl-core` to `./index.js` which is then used as the entry point for this module, removing the Node.js >=10 requirement.
 
-Finally, use `ytdl-core-blob` from this repository instead of `ytdl-core` itself.
+Now commit the new pre-built version of `ytdl-core` (`index.js`) and use `ytdl-core-blob` from this repository instead of `ytdl-core` itself.
