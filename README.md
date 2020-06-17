@@ -4,7 +4,7 @@
 
 Because `ytdl-core` and many of it's dependencies have an irrational engine requirement of Node.js >=10, and we're using Node 8.x
 
-This engine dependency errors out when using `yarn install`
+This leads to an error while using `yarn install` with a Node.js version that is lower then 10.x
 
 ## How to
 
