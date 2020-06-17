@@ -2,7 +2,7 @@
 
 ## Why?
 
-Because `ytdl-core` and many of it's dependencies have an unrational dependency for Node.js >=10, and we're using Node 8.x
+Because `ytdl-core` and many of it's dependencies have an irrational dependency for Node.js >=10, and we're using Node 8.x
 
 This engine dependency errors out when using `yarn install`
 
